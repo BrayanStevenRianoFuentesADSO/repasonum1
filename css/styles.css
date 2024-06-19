@@ -37,6 +37,15 @@ header{
   margin-bottom: var(--margin);
 }
 
+.bg-white{
+  background-color: var(--white);
+  color: var(--MineShaft);
+}
+
+.color-dark{
+  color: var(--MineShaft);
+}
+
 section{
   padding: var(--padding);
 
